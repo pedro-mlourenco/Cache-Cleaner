@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Knowledge-Hoarder/Cache-Cleaner">
+  <a href="https://github.com/pedro-mlourenco/Cache-Cleaner">
     <img src="images/logo.png" alt="Logo" width="70%" height="auto" style="border-radius: 10px">
   </a>
 
