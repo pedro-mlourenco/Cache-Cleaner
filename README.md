@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Knowledge-Hoarder/Cache-Cleaner">
+  <a href="https://github.com/pedro-mlourenco/Cache-Cleaner">
     <img src="images/logo.png" alt="Logo" width="70%" height="auto" style="border-radius: 10px">
   </a>
 
@@ -59,7 +59,7 @@ Cache Cleaner is a developed browser cache cleaning tool designed to automate an
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Knowledge-Hoarder/Cache-Cleaner.git
+   git clone https://github.com/pedro-mlourenco/Cache-Cleaner.git
    ```
 2. Open the solution with Visual Studio `Cache_Cleaner.sln`
 
@@ -89,6 +89,6 @@ It will also save logs on the files it deletes.
 
 Pedro M Lourenco - pedrolourenco.me@gmail.com
 
-Project Link: [https://github.com/Knowledge-Hoarder/Cache-Cleaner](https://github.com/Knowledge-Hoarder/Cache-Cleaner)
+Project Link: [https://github.com/pedro-mlourenco/Cache-Cleaner](https://github.com/pedro-mlourenco/Cache-Cleaner)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
